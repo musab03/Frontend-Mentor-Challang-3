@@ -1,5 +1,5 @@
 import TagImage from "./assets/images/illustration-article.svg"
-import Avatar from "./assets/images/image-avatar.webp"
+
 
 function App() {
 
